@@ -1,5 +1,8 @@
 RedVial/*
-Municipios/*
+Municipios/Centros_poblados*
+Municipios/Municipios*
+
+*.qgz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
